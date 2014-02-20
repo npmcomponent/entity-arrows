@@ -11,8 +11,8 @@
  * Module dependencies.
  */
 
-var Keys = require('keys');
-var merge = require('merge');
+var Keys = require('entity-keys');
+var merge = require('yields-merge');
 
 /**
  * Control flags.
